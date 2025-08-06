@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/T0317216/Documents/training/Beginner_Advanced_MLOps/Colorectal_cancer/Cancer_survival/mlruns/0/7975e359cf7745d1ad12c64856867bd1/artifacts
+end_time: 1754477179701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7975e359cf7745d1ad12c64856867bd1
+run_name: bright-elk-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754477171245
+status: 3
+tags: []
+user_id: T0317216

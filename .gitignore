@@ -1,0 +1,7 @@
+venv/
+logs/
+MLOPS_PROJECT_5.egg-info/
+__pycache__/
+deployment.yaml
+Dockerfile
+README.md

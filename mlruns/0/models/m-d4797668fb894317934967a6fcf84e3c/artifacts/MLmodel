@@ -1,0 +1,28 @@
+artifact_path: file:///C:/Users/T0317216/Documents/training/Beginner_Advanced_MLOps/Colorectal_cancer/Cancer_survival/mlruns/0/models/m-d4797668fb894317934967a6fcf84e3c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-d4797668fb894317934967a6fcf84e3c
+model_size_bytes: 138010
+model_uuid: m-d4797668fb894317934967a6fcf84e3c
+prompts: null
+run_id: 93787f1a933b4072ac5f999c2d83cfc2
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 5]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "object", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-06 09:05:50.094619'
