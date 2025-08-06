@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.feature_selection import SelectKBest, chi2
 
-from src.custom_exceptiom import CustomException
+from src.custom_exception import CustomException
 from src.logger import get_logger
 
 logger = get_logger(__name__)

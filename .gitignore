@@ -5,3 +5,4 @@ __pycache__/
 deployment.yaml
 Dockerfile
 README.md
+.env

@@ -8,3 +8,4 @@ matplotlib
 seaborn
 mlflow
 kfp
+python-dotenv
